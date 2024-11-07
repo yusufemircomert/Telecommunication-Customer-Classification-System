@@ -1,0 +1,1001 @@
+district,customer_since,age,is_married,address,salary,ed,employment_status,is_retired,gender,reside,service
+2,13,44,Yes,9,64.000,4,5,No,F,2,Fundamental Service
+3,11,33,Yes,7,136.000,5,5,No,F,6,Complete Service
+3,68,52,Yes,24,116.000,1,29,No,M,2,Advanced Service
+2,33,33,No,12,33.000,2,0,No,M,1,Fundamental Service
+2,23,30,Yes,9,30.000,1,2,No,F,4,Advanced Service
+2,41,39,No,17,78.000,2,16,No,M,1,Advanced Service
+3,45,22,Yes,2,19.000,2,4,No,M,5,E-Service
+2,38,35,No,5,76.000,2,10,No,F,3,Complete Service
+3,45,59,Yes,7,166.000,4,31,No,F,5,Advanced Service
+1,68,41,Yes,21,72.000,1,22,No,F,3,E-Service
+2,5,33,No,10,125.000,4,5,No,M,1,Fundamental Service
+3,7,35,No,14,80.000,2,15,No,M,1,Advanced Service
+1,41,38,Yes,8,37.000,2,9,No,M,3,Fundamental Service
+2,57,54,Yes,30,115.000,4,23,No,M,3,Complete Service
+2,9,46,No,3,25.000,1,8,No,M,2,Fundamental Service
+1,29,38,Yes,12,75.000,5,1,No,F,4,E-Service
+3,60,57,No,38,162.000,2,30,No,F,1,Advanced Service
+3,34,48,No,3,49.000,2,6,No,M,3,Advanced Service
+2,1,24,No,3,20.000,1,3,No,F,1,Fundamental Service
+1,26,29,Yes,3,77.000,4,2,No,F,4,Complete Service
+3,6,30,No,7,16.000,3,1,No,M,1,E-Service
+1,68,52,Yes,17,120.000,1,24,No,F,2,Fundamental Service
+3,53,33,No,10,101.000,5,4,No,M,2,Complete Service
+3,55,48,Yes,19,67.000,1,25,No,F,3,Fundamental Service
+3,14,43,Yes,18,36.000,1,5,No,F,5,Advanced Service
+2,1,21,No,0,33.000,2,0,No,M,3,Advanced Service
+2,42,40,No,7,37.000,2,8,No,M,1,Complete Service
+3,25,33,Yes,11,31.000,1,5,No,F,4,Advanced Service
+1,9,21,Yes,1,17.000,2,2,No,M,3,Fundamental Service
+2,13,33,Yes,9,19.000,4,0,No,M,2,E-Service
+1,56,37,Yes,6,36.000,1,13,No,M,2,E-Service
+1,71,53,Yes,27,155.000,5,12,No,F,2,Complete Service
+1,35,50,Yes,26,140.000,2,21,No,M,4,Advanced Service
+1,11,27,Yes,8,55.000,5,0,No,F,3,E-Service
+2,60,46,Yes,13,163.000,3,24,No,F,2,Complete Service
+3,20,35,Yes,11,52.000,4,0,No,F,2,E-Service
+2,54,60,No,38,211.000,4,25,No,F,1,Complete Service
+1,44,57,Yes,1,186.000,2,17,No,F,2,Advanced Service
+1,11,41,Yes,0,39.000,1,1,No,M,2,Advanced Service
+2,72,57,No,34,22.000,2,35,Yes,M,1,Advanced Service
+3,10,41,No,7,30.000,1,7,No,F,1,Advanced Service
+2,15,28,No,0,29.000,2,4,No,M,1,Advanced Service
+2,27,28,Yes,4,23.000,2,8,No,F,5,Fundamental Service
+1,9,36,Yes,14,62.000,4,10,No,F,6,Complete Service
+1,64,43,Yes,20,76.000,4,20,No,M,4,Advanced Service
+1,65,41,Yes,3,74.000,4,16,No,F,2,E-Service
+1,49,51,Yes,27,63.000,4,19,No,F,5,E-Service
+3,47,41,Yes,0,36.000,4,8,No,F,2,Complete Service
+3,9,34,Yes,9,33.000,2,8,No,M,4,Fundamental Service
+1,5,36,No,14,29.000,2,9,No,M,1,Advanced Service
+2,30,34,Yes,4,27.000,2,1,No,F,5,Fundamental Service
+1,56,52,Yes,28,49.000,2,12,No,F,4,E-Service
+3,10,22,No,0,24.000,4,0,No,F,1,Complete Service
+1,7,26,Yes,3,26.000,2,2,No,F,5,Fundamental Service
+1,52,27,No,6,47.000,3,5,No,F,2,Fundamental Service
+2,36,45,Yes,1,94.000,2,18,No,M,5,Fundamental Service
+3,27,34,No,8,21.000,3,4,No,M,1,E-Service
+1,58,62,Yes,36,27.000,1,0,No,F,2,Fundamental Service
+2,41,52,No,27,30.000,2,2,No,M,1,Advanced Service
+2,47,40,Yes,16,127.000,4,12,No,M,4,E-Service
+2,55,39,Yes,15,137.000,2,20,No,M,2,Advanced Service
+2,56,50,Yes,1,80.000,2,24,No,M,4,Complete Service
+3,35,55,No,24,30.000,2,2,No,F,1,Fundamental Service
+2,69,51,Yes,11,438.000,4,23,No,M,2,Complete Service
+2,44,39,No,16,79.000,2,16,No,F,1,Complete Service
+3,36,47,Yes,16,63.000,1,23,No,F,2,Fundamental Service
+3,28,51,Yes,22,40.000,3,10,No,M,6,Advanced Service
+1,72,67,Yes,44,51.000,1,34,Yes,F,2,Advanced Service
+1,16,27,No,5,37.000,3,5,No,F,4,Fundamental Service
+3,3,43,No,19,61.000,4,11,No,M,1,Fundamental Service
+1,40,57,Yes,15,22.000,2,9,No,F,2,Fundamental Service
+3,16,39,No,6,44.000,4,3,No,M,1,E-Service
+1,20,42,No,4,17.000,3,5,No,F,1,Fundamental Service
+2,48,43,No,13,110.000,5,15,No,M,3,E-Service
+2,64,48,Yes,13,91.000,2,24,No,F,2,Advanced Service
+1,8,46,No,3,46.000,2,8,No,F,1,Fundamental Service
+1,40,38,Yes,10,85.000,3,12,No,F,2,Advanced Service
+2,38,71,No,27,10.000,2,12,Yes,F,1,Fundamental Service
+1,67,68,No,28,244.000,1,47,No,M,1,Advanced Service
+1,26,42,No,0,80.000,4,15,No,M,1,Complete Service
+3,41,34,Yes,15,83.000,5,1,No,M,2,Complete Service
+2,2,31,No,2,21.000,1,6,No,F,1,Fundamental Service
+3,20,48,Yes,29,24.000,2,3,No,F,2,Complete Service
+2,31,53,No,2,351.000,3,31,No,M,1,Advanced Service
+2,45,52,Yes,4,169.000,4,29,No,M,4,E-Service
+2,33,27,Yes,7,46.000,2,7,No,F,4,Fundamental Service
+1,10,26,No,6,34.000,3,3,No,F,1,E-Service
+2,62,54,Yes,2,50.000,4,3,No,F,2,Complete Service
+2,4,35,No,16,161.000,5,6,No,M,1,Complete Service
+1,42,47,Yes,17,212.000,4,17,No,F,2,Advanced Service
+3,27,51,Yes,3,80.000,5,11,No,F,3,E-Service
+2,38,42,No,1,30.000,4,7,No,M,1,Fundamental Service
+3,52,61,Yes,3,53.000,5,1,No,M,2,E-Service
+3,35,33,No,9,73.000,5,4,No,M,1,Complete Service
+3,3,20,Yes,1,17.000,2,0,No,M,4,Fundamental Service
+2,17,33,No,9,23.000,5,3,No,F,1,Complete Service
+1,55,53,Yes,21,34.000,1,8,No,F,2,Advanced Service
+3,43,36,Yes,5,107.000,1,19,No,M,3,E-Service
+2,47,25,Yes,5,21.000,1,1,No,M,2,Advanced Service
+3,65,58,No,30,83.000,2,16,No,M,1,E-Service
+1,13,20,No,1,17.000,3,0,No,F,5,Complete Service
+3,64,25,Yes,4,76.000,3,2,No,M,6,Advanced Service
+2,12,24,No,2,19.000,1,0,No,F,1,Advanced Service
+1,29,32,Yes,0,49.000,4,3,No,M,3,E-Service
+2,23,47,No,21,173.000,3,22,No,M,1,E-Service
+2,14,35,No,4,47.000,3,10,No,M,1,E-Service
+1,35,61,No,23,41.000,2,11,No,F,1,Fundamental Service
+3,26,39,No,8,105.000,3,13,No,M,1,Complete Service
+1,13,54,No,2,31.000,4,2,No,F,1,Fundamental Service
+2,69,40,Yes,13,41.000,2,17,No,F,3,E-Service
+3,61,50,Yes,30,102.000,4,9,No,M,3,E-Service
+2,45,22,Yes,2,36.000,4,0,No,M,5,E-Service
+2,3,37,No,13,24.000,1,3,No,M,1,Fundamental Service
+2,53,22,No,1,25.000,4,0,No,F,2,E-Service
+1,59,42,No,1,68.000,2,21,No,M,1,Advanced Service
+1,13,34,No,11,20.000,3,0,No,M,1,Fundamental Service
+3,31,31,No,4,48.000,1,15,No,F,1,Advanced Service
+1,40,29,Yes,6,40.000,2,8,No,M,5,Advanced Service
+1,48,55,No,15,79.000,1,25,No,F,1,Advanced Service
+3,3,31,No,1,28.000,1,0,No,F,1,Fundamental Service
+2,51,48,No,12,64.000,2,22,No,M,1,Fundamental Service
+3,33,41,No,15,37.000,2,11,No,F,1,Fundamental Service
+3,14,47,Yes,7,48.000,1,13,No,F,2,Fundamental Service
+1,17,42,Yes,6,131.000,5,6,No,F,3,E-Service
+3,19,29,Yes,9,18.000,2,2,No,F,3,Fundamental Service
+2,58,36,No,10,38.000,2,14,No,M,1,E-Service
+3,22,23,No,3,37.000,2,4,No,M,3,Complete Service
+2,29,31,Yes,1,60.000,4,6,No,F,5,E-Service
+3,14,22,Yes,2,13.000,3,0,No,M,4,E-Service
+2,70,64,Yes,18,98.000,1,31,No,M,2,Complete Service
+1,62,52,Yes,2,195.000,1,23,No,F,2,Advanced Service
+2,7,35,Yes,0,47.000,1,14,No,F,5,Fundamental Service
+1,56,47,Yes,19,65.000,2,22,No,F,3,Complete Service
+1,50,50,Yes,22,150.000,5,5,No,M,4,E-Service
+2,57,39,No,6,106.000,5,8,No,F,1,Advanced Service
+3,2,40,No,19,51.000,4,14,No,M,1,Fundamental Service
+2,40,38,No,17,96.000,4,0,No,M,1,Fundamental Service
+2,6,43,No,4,33.000,5,7,No,F,2,Advanced Service
+3,23,25,Yes,6,38.000,2,1,No,M,3,Advanced Service
+3,11,32,No,6,125.000,4,5,No,F,1,Complete Service
+1,29,37,Yes,13,145.000,5,0,No,M,4,Complete Service
+1,42,44,Yes,2,99.000,2,21,No,F,3,Advanced Service
+1,20,34,Yes,2,22.000,4,0,No,M,3,Complete Service
+2,72,60,Yes,21,31.000,1,38,Yes,F,2,E-Service
+1,2,36,No,3,25.000,1,6,No,M,1,Advanced Service
+3,46,25,No,5,57.000,5,0,No,M,2,Fundamental Service
+2,39,51,Yes,21,41.000,5,20,No,F,6,Complete Service
+3,24,25,Yes,1,20.000,3,1,No,M,2,E-Service
+3,59,43,Yes,4,101.000,2,22,No,M,5,E-Service
+1,65,37,No,8,56.000,2,15,No,F,1,E-Service
+2,50,27,Yes,5,22.000,2,5,No,M,3,Fundamental Service
+1,57,37,No,11,108.000,4,9,No,M,1,Advanced Service
+3,61,48,No,14,115.000,4,20,No,M,1,Complete Service
+3,34,54,No,31,53.000,4,22,No,F,1,Complete Service
+3,38,53,No,13,242.000,4,12,No,F,1,Complete Service
+1,3,24,Yes,2,20.000,2,3,No,M,5,Advanced Service
+2,4,47,No,5,123.000,4,11,No,F,1,Fundamental Service
+2,15,35,No,0,34.000,1,12,No,F,1,Fundamental Service
+1,25,29,Yes,8,31.000,4,3,No,M,5,E-Service
+3,21,44,No,25,47.000,1,12,No,M,2,Advanced Service
+3,50,37,Yes,11,48.000,3,8,No,M,2,Advanced Service
+2,65,64,Yes,22,13.000,2,5,Yes,M,3,Advanced Service
+2,59,52,Yes,18,78.000,1,25,No,F,2,Fundamental Service
+3,29,26,No,7,34.000,1,7,No,M,2,Advanced Service
+1,60,46,No,17,81.000,5,9,No,M,1,E-Service
+1,71,45,Yes,14,86.000,2,25,No,F,2,E-Service
+3,38,27,Yes,0,26.000,4,2,No,F,4,Complete Service
+3,16,34,Yes,5,51.000,2,8,No,M,5,Fundamental Service
+3,7,31,No,10,59.000,3,10,No,F,1,Fundamental Service
+1,59,53,No,21,112.000,4,16,No,F,1,E-Service
+2,22,56,Yes,14,57.000,4,28,No,F,2,Complete Service
+1,18,48,Yes,20,41.000,1,2,No,M,2,Fundamental Service
+2,64,46,Yes,19,168.000,2,26,No,M,2,Complete Service
+2,7,33,No,4,29.000,4,4,No,M,3,Fundamental Service
+3,65,58,No,13,167.000,2,14,No,M,2,E-Service
+3,7,24,No,5,29.000,2,3,No,F,3,Fundamental Service
+1,64,55,No,28,104.000,1,26,No,M,1,Advanced Service
+3,42,22,Yes,0,46.000,4,0,No,F,2,Complete Service
+3,33,26,No,5,46.000,4,1,No,M,3,Complete Service
+1,3,33,No,8,51.000,4,0,No,M,1,Fundamental Service
+2,69,42,Yes,11,65.000,2,18,No,F,2,Complete Service
+2,9,33,No,1,48.000,2,13,No,F,2,Fundamental Service
+3,22,34,Yes,1,46.000,3,1,No,F,4,E-Service
+2,53,63,Yes,15,43.000,2,18,No,F,2,E-Service
+3,71,53,No,30,110.000,1,34,No,F,1,E-Service
+3,24,26,No,2,32.000,3,2,No,F,3,Fundamental Service
+3,12,22,Yes,1,18.000,3,0,No,M,2,Fundamental Service
+1,25,39,Yes,1,26.000,4,0,No,F,4,E-Service
+3,63,28,Yes,9,34.000,2,10,No,M,6,Advanced Service
+1,33,54,Yes,18,57.000,4,4,No,M,3,Advanced Service
+2,57,54,Yes,20,21.000,2,0,No,M,3,Fundamental Service
+3,13,33,No,7,38.000,3,10,No,M,1,Complete Service
+1,13,21,No,2,19.000,3,0,No,M,1,E-Service
+1,71,39,No,2,40.000,3,17,No,F,1,Advanced Service
+3,18,69,Yes,11,58.000,3,8,No,F,2,Complete Service
+1,17,51,Yes,10,95.000,2,15,No,M,2,Fundamental Service
+2,22,43,No,4,114.000,2,19,No,F,1,Fundamental Service
+2,65,65,Yes,27,128.000,3,24,No,F,2,Advanced Service
+3,7,40,No,9,33.000,4,2,No,M,1,Fundamental Service
+3,72,66,No,30,460.000,4,41,No,M,1,Complete Service
+1,35,43,No,12,224.000,3,17,No,F,1,Fundamental Service
+1,24,39,No,2,122.000,4,12,No,F,3,Complete Service
+1,64,24,Yes,0,23.000,3,1,No,M,5,E-Service
+2,63,63,Yes,19,191.000,3,27,No,F,2,E-Service
+1,38,31,Yes,7,187.000,4,6,No,F,3,Complete Service
+2,29,37,Yes,9,119.000,3,12,No,F,3,Fundamental Service
+1,72,69,Yes,49,44.000,2,44,Yes,M,2,Advanced Service
+1,10,27,Yes,2,15.000,3,2,No,M,2,Complete Service
+3,72,64,No,41,674.000,4,37,No,M,1,Advanced Service
+3,52,23,Yes,4,33.000,4,0,No,M,2,Advanced Service
+3,13,55,No,3,250.000,2,35,No,M,2,Fundamental Service
+1,3,33,No,6,64.000,4,0,No,F,2,Fundamental Service
+3,39,24,Yes,2,26.000,2,4,No,F,4,Fundamental Service
+2,28,29,No,4,23.000,3,5,No,F,2,E-Service
+2,46,42,No,9,52.000,4,7,No,F,3,E-Service
+2,62,46,No,27,200.000,3,9,No,M,1,Fundamental Service
+2,23,33,Yes,7,28.000,1,4,No,F,2,Advanced Service
+3,23,25,Yes,5,19.000,5,0,No,F,3,Complete Service
+2,72,61,Yes,39,76.000,3,21,No,F,2,Complete Service
+3,56,60,No,26,70.000,2,20,No,F,1,Fundamental Service
+1,8,30,No,1,34.000,2,9,No,M,1,Advanced Service
+3,3,36,No,7,34.000,5,3,No,M,3,Complete Service
+3,37,37,No,7,172.000,3,13,No,F,1,Fundamental Service
+3,37,53,Yes,13,48.000,1,10,No,F,3,Advanced Service
+2,6,30,No,9,45.000,2,2,No,M,1,Fundamental Service
+1,48,47,No,9,72.000,3,13,No,F,5,Complete Service
+2,43,43,Yes,3,55.000,4,18,No,M,4,Complete Service
+2,21,29,No,7,40.000,4,2,No,M,4,Fundamental Service
+3,6,33,No,12,26.000,3,0,No,F,1,Advanced Service
+2,69,51,No,18,96.000,1,33,No,F,4,Advanced Service
+1,22,33,No,9,54.000,1,10,No,F,1,Advanced Service
+1,28,40,Yes,1,47.000,2,9,No,M,3,Advanced Service
+1,71,47,Yes,23,142.000,1,30,No,F,2,E-Service
+2,7,37,No,5,57.000,4,1,No,F,1,Fundamental Service
+1,63,29,No,10,20.000,3,7,No,F,2,Complete Service
+2,53,57,No,25,37.000,1,7,No,F,1,E-Service
+2,50,52,Yes,17,36.000,4,16,No,F,4,Complete Service
+2,39,31,Yes,6,24.000,4,2,No,F,2,Complete Service
+3,16,19,No,0,21.000,2,0,No,M,1,Fundamental Service
+3,43,51,Yes,15,186.000,3,25,No,F,2,Complete Service
+3,44,31,No,12,30.000,1,7,No,M,3,Fundamental Service
+2,72,66,Yes,43,96.000,2,16,No,M,2,Complete Service
+3,61,76,No,39,15.000,1,29,Yes,F,1,Advanced Service
+3,43,21,Yes,1,25.000,1,4,No,F,4,E-Service
+3,24,39,No,11,49.000,3,7,No,M,1,Fundamental Service
+3,64,45,No,4,38.000,2,7,No,M,1,Advanced Service
+2,64,38,No,0,29.000,2,2,No,F,2,E-Service
+1,24,26,No,7,55.000,2,7,No,M,1,Fundamental Service
+3,33,55,Yes,21,64.000,3,10,No,M,3,Fundamental Service
+2,33,33,Yes,12,42.000,4,7,No,M,5,E-Service
+1,2,40,No,9,134.000,4,2,No,F,1,Fundamental Service
+2,42,48,Yes,22,82.000,1,21,No,M,5,Complete Service
+1,52,54,Yes,5,153.000,5,10,No,F,2,E-Service
+1,45,66,No,43,144.000,2,13,No,M,1,E-Service
+3,3,25,No,4,22.000,4,0,No,F,2,Complete Service
+2,37,53,Yes,16,35.000,1,16,No,M,4,Advanced Service
+2,28,57,No,33,82.000,4,22,No,M,1,E-Service
+3,40,63,Yes,9,61.000,1,22,No,F,2,Fundamental Service
+2,37,33,No,1,102.000,2,12,No,F,1,Complete Service
+3,7,27,No,5,31.000,3,4,No,F,5,Complete Service
+1,71,56,No,23,170.000,1,30,No,M,1,Complete Service
+2,19,46,No,11,26.000,2,0,No,M,1,Fundamental Service
+2,61,40,No,15,85.000,3,15,No,M,1,Advanced Service
+3,70,53,Yes,16,183.000,2,35,No,M,2,E-Service
+2,60,55,Yes,13,67.000,1,18,No,M,2,Fundamental Service
+3,48,45,Yes,5,42.000,1,11,No,M,2,Fundamental Service
+1,8,63,Yes,1,31.000,1,9,No,F,2,Advanced Service
+2,58,58,Yes,10,96.000,2,17,No,F,4,Advanced Service
+1,16,24,Yes,5,24.000,3,2,No,F,5,Advanced Service
+2,33,33,No,4,53.000,2,14,No,M,1,Fundamental Service
+2,39,25,No,4,18.000,1,0,No,M,1,Advanced Service
+1,62,51,No,10,43.000,4,19,No,F,2,E-Service
+1,50,34,No,10,104.000,3,9,No,F,1,Complete Service
+2,48,55,No,31,26.000,1,1,No,F,1,Fundamental Service
+3,31,62,No,5,56.000,2,26,No,M,1,Advanced Service
+2,65,33,Yes,9,49.000,2,6,No,F,5,E-Service
+1,36,58,No,34,80.000,1,21,No,M,1,E-Service
+1,61,46,No,5,318.000,3,18,No,M,1,Advanced Service
+2,48,42,No,21,35.000,4,5,No,F,1,Advanced Service
+3,35,45,No,17,29.000,1,6,No,F,1,Fundamental Service
+1,51,28,No,8,43.000,5,1,No,F,5,Complete Service
+2,49,51,Yes,5,80.000,5,3,No,F,2,Complete Service
+1,35,39,Yes,11,30.000,3,2,No,M,3,Advanced Service
+1,58,70,No,2,9.000,3,24,Yes,M,1,E-Service
+1,23,35,Yes,0,23.000,2,1,No,F,5,Advanced Service
+2,26,39,Yes,15,58.000,4,9,No,M,2,Advanced Service
+1,38,37,Yes,1,52.000,1,20,No,M,4,Complete Service
+1,35,66,Yes,44,14.000,3,12,Yes,M,2,Advanced Service
+2,37,50,No,9,110.000,2,21,No,M,1,Advanced Service
+2,48,43,Yes,1,60.000,2,12,No,F,2,E-Service
+3,13,43,Yes,1,123.000,3,21,No,F,5,Complete Service
+1,72,63,Yes,29,15.000,5,31,Yes,F,2,Advanced Service
+1,30,27,No,4,47.000,4,2,No,M,2,E-Service
+1,24,43,No,14,138.000,4,11,No,M,1,Advanced Service
+2,25,51,Yes,20,359.000,3,29,No,F,2,Complete Service
+2,50,52,No,30,214.000,3,22,No,F,1,Complete Service
+2,28,40,No,7,64.000,1,19,No,F,1,Advanced Service
+3,34,51,No,8,50.000,4,14,No,F,1,Fundamental Service
+1,48,32,No,2,88.000,3,9,No,F,1,Complete Service
+2,42,36,Yes,8,86.000,2,15,No,M,2,E-Service
+3,67,65,Yes,30,17.000,1,29,Yes,M,2,Advanced Service
+1,17,41,Yes,7,25.000,2,17,No,F,3,Advanced Service
+1,29,38,Yes,19,46.000,2,6,No,F,2,E-Service
+3,66,61,No,26,361.000,1,40,No,M,1,E-Service
+2,1,21,No,1,18.000,3,0,No,M,1,Fundamental Service
+1,28,33,Yes,3,14.000,4,1,No,F,3,Complete Service
+1,15,35,Yes,5,34.000,3,8,No,F,2,E-Service
+2,12,64,No,13,9.000,2,6,Yes,M,1,Advanced Service
+3,48,49,No,18,39.000,2,5,No,M,1,Complete Service
+2,59,25,Yes,4,18.000,3,2,No,F,4,Fundamental Service
+3,8,26,Yes,1,25.000,4,1,No,F,2,Fundamental Service
+1,45,52,No,15,46.000,5,8,No,M,1,E-Service
+1,25,39,Yes,8,94.000,4,11,No,M,4,E-Service
+1,21,44,Yes,4,26.000,3,2,No,F,2,Complete Service
+2,17,68,Yes,1,335.000,1,35,No,M,3,Complete Service
+2,41,45,No,14,25.000,3,6,No,F,1,Fundamental Service
+1,13,45,Yes,3,99.000,3,8,No,M,2,Advanced Service
+2,1,26,Yes,3,30.000,2,7,No,M,5,Fundamental Service
+3,3,31,Yes,4,35.000,2,2,No,M,3,Complete Service
+1,23,27,Yes,2,51.000,5,1,No,M,2,Fundamental Service
+3,26,42,No,20,49.000,3,13,No,F,1,Complete Service
+1,37,51,Yes,15,54.000,1,15,No,F,3,Advanced Service
+3,5,30,No,3,46.000,4,7,No,F,1,E-Service
+1,32,27,Yes,3,91.000,4,1,No,M,3,Complete Service
+3,12,22,No,1,23.000,4,0,No,F,2,Fundamental Service
+1,72,54,Yes,6,345.000,1,32,No,F,2,Advanced Service
+3,3,25,Yes,2,45.000,4,0,No,M,2,Fundamental Service
+1,54,43,No,12,53.000,2,12,No,F,1,Advanced Service
+2,26,26,No,2,14.000,2,6,No,M,1,Complete Service
+3,14,36,No,13,67.000,5,4,No,M,1,Fundamental Service
+3,22,51,No,27,49.000,3,1,No,F,1,Fundamental Service
+3,65,47,Yes,18,37.000,1,15,No,M,4,Fundamental Service
+3,26,45,No,18,33.000,1,9,No,F,1,Fundamental Service
+1,20,37,No,5,46.000,3,10,No,M,4,Complete Service
+2,67,60,Yes,32,93.000,1,21,No,F,4,E-Service
+1,34,55,No,2,48.000,2,11,No,F,1,Fundamental Service
+1,37,54,Yes,35,183.000,2,22,No,F,3,Advanced Service
+2,22,23,Yes,3,16.000,1,5,No,F,4,Fundamental Service
+2,5,69,No,0,11.000,2,14,Yes,F,1,Fundamental Service
+1,28,31,Yes,0,42.000,4,5,No,M,3,Advanced Service
+1,20,41,Yes,7,67.000,4,14,No,M,4,Fundamental Service
+3,72,41,No,20,181.000,4,12,No,F,1,Complete Service
+2,30,43,No,18,53.000,4,6,No,F,1,Fundamental Service
+3,71,52,No,17,172.000,2,32,No,F,1,Complete Service
+2,56,44,No,24,87.000,2,19,No,F,1,Advanced Service
+1,8,29,Yes,2,21.000,5,0,No,F,2,Fundamental Service
+2,32,65,No,6,9.000,2,30,Yes,M,1,E-Service
+2,46,47,No,22,144.000,3,22,No,M,2,Advanced Service
+3,60,45,Yes,23,117.000,4,11,No,F,3,Complete Service
+2,42,32,Yes,0,59.000,4,4,No,M,6,Complete Service
+3,71,60,Yes,39,508.000,4,35,No,F,4,Complete Service
+2,72,63,Yes,40,222.000,2,43,Yes,M,2,Advanced Service
+3,45,66,No,11,87.000,3,25,Yes,M,1,Fundamental Service
+3,5,31,No,4,34.000,1,9,No,F,1,Advanced Service
+2,17,38,Yes,19,18.000,4,0,No,M,4,E-Service
+2,70,55,No,12,65.000,3,24,No,F,1,Advanced Service
+3,57,57,Yes,19,130.000,3,27,No,M,2,E-Service
+1,20,33,No,13,44.000,3,8,No,M,1,E-Service
+1,72,52,Yes,21,63.000,1,24,No,F,3,Advanced Service
+3,32,50,No,28,57.000,4,20,No,F,1,Advanced Service
+3,22,57,Yes,7,264.000,1,35,No,M,2,Advanced Service
+2,6,24,No,2,28.000,1,5,No,F,2,Advanced Service
+3,32,23,Yes,2,26.000,3,1,No,M,6,Complete Service
+1,38,33,No,3,38.000,4,0,No,F,1,E-Service
+1,53,35,No,15,59.000,3,5,No,M,1,Advanced Service
+3,37,76,No,38,117.000,4,21,No,M,1,Fundamental Service
+1,47,35,Yes,13,70.000,4,9,No,M,2,Complete Service
+3,69,59,No,37,104.000,2,13,No,F,1,Advanced Service
+3,63,56,No,17,71.000,3,18,No,M,1,Fundamental Service
+1,61,34,Yes,0,70.000,3,7,No,M,3,Complete Service
+1,56,38,Yes,8,56.000,4,10,No,F,2,Complete Service
+3,40,57,Yes,18,68.000,1,23,No,F,2,Advanced Service
+2,61,45,No,21,80.000,2,13,No,M,1,E-Service
+2,16,26,No,7,21.000,4,1,No,F,6,Complete Service
+2,7,43,No,4,69.000,3,5,No,M,1,Fundamental Service
+3,20,31,Yes,10,39.000,2,3,No,M,2,Fundamental Service
+2,35,38,No,7,90.000,2,18,No,F,4,E-Service
+1,60,37,Yes,12,64.000,5,1,No,M,2,E-Service
+2,47,25,No,2,28.000,2,6,No,F,1,Complete Service
+2,33,28,Yes,3,24.000,2,0,No,M,6,Fundamental Service
+3,12,34,No,2,44.000,2,7,No,F,1,Fundamental Service
+1,10,31,No,0,32.000,4,7,No,M,2,E-Service
+2,69,33,Yes,9,52.000,4,9,No,M,3,Advanced Service
+1,23,20,No,1,15.000,3,0,No,M,1,E-Service
+1,53,31,No,10,46.000,3,6,No,F,2,E-Service
+2,60,57,Yes,14,107.000,2,33,No,M,2,Advanced Service
+2,33,33,No,7,56.000,2,11,No,F,1,Fundamental Service
+3,67,40,Yes,21,40.000,4,7,No,M,4,Complete Service
+3,15,38,Yes,5,56.000,3,13,No,F,3,Advanced Service
+3,64,31,Yes,5,46.000,2,7,No,M,4,E-Service
+2,46,49,Yes,13,51.000,2,21,No,F,2,Fundamental Service
+2,72,60,Yes,33,12.000,1,20,Yes,F,3,Complete Service
+1,61,43,Yes,6,34.000,5,6,No,F,3,Complete Service
+3,54,27,No,3,27.000,2,6,No,M,5,Complete Service
+3,28,36,No,3,42.000,3,7,No,M,1,Advanced Service
+2,28,38,No,8,119.000,5,2,No,F,3,Complete Service
+2,32,43,No,13,146.000,1,27,No,M,1,Advanced Service
+2,52,46,No,17,51.000,2,13,No,M,3,E-Service
+1,48,62,No,33,86.000,1,22,Yes,M,1,Advanced Service
+3,52,42,Yes,17,27.000,3,8,No,M,2,Advanced Service
+1,37,43,No,8,38.000,3,9,No,F,1,E-Service
+1,41,52,No,26,928.000,3,29,No,F,3,Advanced Service
+2,43,27,Yes,3,21.000,2,1,No,M,3,E-Service
+3,67,60,No,24,24.000,1,6,No,M,1,Advanced Service
+3,61,52,Yes,30,91.000,1,25,No,M,2,Fundamental Service
+3,70,39,Yes,20,38.000,2,8,No,M,4,Advanced Service
+3,44,32,Yes,1,96.000,4,5,No,M,4,Complete Service
+3,46,45,No,12,96.000,3,17,No,F,1,E-Service
+3,39,34,No,2,54.000,3,5,No,F,1,Fundamental Service
+2,39,59,No,20,1668.000,4,27,No,M,1,E-Service
+2,50,29,Yes,10,53.000,4,0,No,M,4,Complete Service
+3,5,31,No,1,21.000,3,1,No,M,2,Fundamental Service
+2,10,34,No,1,52.000,5,3,No,M,1,E-Service
+1,72,69,No,45,17.000,3,36,Yes,M,1,E-Service
+2,68,60,No,40,262.000,2,39,No,M,1,Advanced Service
+3,58,28,No,5,34.000,5,1,No,M,1,E-Service
+3,18,44,Yes,10,107.000,1,19,No,M,7,Fundamental Service
+1,65,45,Yes,25,67.000,5,13,No,M,2,Advanced Service
+3,8,45,No,1,37.000,4,0,No,F,1,E-Service
+2,1,20,No,1,21.000,2,0,No,M,2,Fundamental Service
+3,42,58,No,7,22.000,1,4,No,M,1,E-Service
+1,4,25,Yes,3,71.000,3,3,No,M,5,Fundamental Service
+3,17,35,No,4,77.000,3,8,No,M,1,Advanced Service
+2,8,24,Yes,1,18.000,4,0,No,M,5,Complete Service
+1,49,37,Yes,17,50.000,2,12,No,M,2,E-Service
+1,56,46,Yes,21,33.000,4,7,No,F,2,E-Service
+1,62,57,Yes,21,94.000,1,22,No,F,2,Complete Service
+2,42,57,Yes,25,209.000,1,40,No,M,4,Fundamental Service
+1,13,32,No,7,31.000,4,5,No,F,2,Advanced Service
+1,69,46,Yes,18,66.000,2,19,No,F,4,E-Service
+2,45,59,No,14,51.000,1,15,No,F,2,Fundamental Service
+2,66,42,Yes,18,118.000,2,20,No,F,2,E-Service
+2,15,35,No,10,25.000,2,3,No,F,1,Fundamental Service
+1,41,44,Yes,1,59.000,3,21,No,M,3,E-Service
+2,11,20,No,1,20.000,2,0,No,M,1,Complete Service
+3,45,30,Yes,0,63.000,5,4,No,F,4,Complete Service
+1,52,62,No,23,36.000,4,17,No,F,1,Fundamental Service
+1,42,56,No,24,72.000,4,18,No,M,1,Complete Service
+2,48,35,No,11,50.000,1,16,No,F,3,Advanced Service
+3,4,31,No,5,39.000,2,5,No,F,2,Complete Service
+3,53,64,Yes,10,54.000,2,20,No,M,2,Complete Service
+3,1,59,No,4,9.000,1,4,Yes,F,1,Advanced Service
+3,19,30,Yes,10,33.000,4,1,No,F,3,Complete Service
+2,33,30,No,11,28.000,1,9,No,F,1,Fundamental Service
+3,42,36,Yes,14,44.000,2,11,No,F,3,Advanced Service
+1,60,32,No,12,34.000,4,4,No,M,2,E-Service
+2,57,51,Yes,7,68.000,4,18,No,M,3,Advanced Service
+1,64,39,No,5,37.000,1,9,No,F,1,Fundamental Service
+2,28,20,Yes,1,18.000,3,0,No,F,3,Complete Service
+1,29,35,Yes,10,55.000,2,7,No,F,4,Advanced Service
+1,46,31,Yes,12,21.000,1,5,No,F,5,Advanced Service
+1,22,41,Yes,9,29.000,3,11,No,F,4,Fundamental Service
+2,10,56,No,26,9.000,2,6,Yes,F,2,Fundamental Service
+3,50,41,No,16,138.000,2,18,No,M,1,E-Service
+1,55,65,No,34,28.000,4,12,Yes,M,1,Complete Service
+2,15,54,No,7,62.000,1,11,No,F,1,Fundamental Service
+1,31,32,Yes,13,37.000,3,8,No,M,3,Complete Service
+3,5,44,No,5,83.000,1,16,No,M,1,E-Service
+2,69,63,No,28,168.000,1,43,No,M,2,Advanced Service
+2,26,27,Yes,4,33.000,4,1,No,F,6,Complete Service
+3,10,33,Yes,2,66.000,3,9,No,M,4,Fundamental Service
+1,26,30,No,9,18.000,4,1,No,F,3,Complete Service
+3,25,30,No,0,20.000,1,4,No,M,1,Advanced Service
+3,30,23,Yes,4,19.000,3,1,No,F,4,E-Service
+1,21,39,Yes,7,25.000,2,1,No,F,4,Advanced Service
+1,71,46,No,27,119.000,5,7,No,M,1,Complete Service
+3,11,48,Yes,5,323.000,4,25,No,F,4,Advanced Service
+1,24,30,Yes,7,45.000,1,11,No,M,2,Fundamental Service
+1,65,59,Yes,27,197.000,4,26,No,F,2,E-Service
+1,16,34,Yes,13,56.000,3,10,No,M,3,Fundamental Service
+3,37,51,Yes,26,24.000,4,4,No,F,2,E-Service
+1,5,30,No,4,25.000,3,6,No,F,1,Advanced Service
+1,3,55,Yes,9,26.000,5,0,No,M,2,E-Service
+1,5,32,No,6,33.000,4,3,No,F,2,Fundamental Service
+1,60,44,Yes,4,150.000,2,24,No,F,2,Complete Service
+2,19,37,Yes,4,99.000,2,15,No,M,3,E-Service
+3,54,40,No,19,50.000,4,12,No,M,2,Complete Service
+2,25,41,No,3,81.000,3,20,No,M,4,Advanced Service
+2,1,36,No,6,21.000,1,1,No,F,2,E-Service
+3,54,68,No,7,273.000,3,27,No,M,1,Fundamental Service
+1,14,31,Yes,9,39.000,3,4,No,M,7,Fundamental Service
+3,14,28,Yes,7,17.000,2,3,No,F,4,Fundamental Service
+2,10,45,Yes,8,115.000,3,17,No,M,4,E-Service
+1,7,23,No,3,27.000,2,1,No,M,3,Fundamental Service
+2,33,45,No,24,35.000,1,6,No,F,1,Advanced Service
+1,3,23,No,2,20.000,2,4,No,F,1,Fundamental Service
+2,56,58,Yes,3,92.000,1,25,No,F,3,Fundamental Service
+2,54,56,No,8,207.000,2,35,No,M,1,Advanced Service
+1,72,55,Yes,28,40.000,1,11,No,F,5,E-Service
+1,18,29,No,4,40.000,2,1,No,F,1,Advanced Service
+3,25,29,No,9,55.000,4,1,No,F,1,Fundamental Service
+1,42,62,No,26,26.000,1,35,Yes,M,1,Fundamental Service
+3,4,37,No,2,41.000,2,8,No,F,1,Fundamental Service
+2,12,50,Yes,16,203.000,4,25,No,F,2,Fundamental Service
+2,53,64,Yes,17,380.000,2,36,No,M,2,Advanced Service
+2,13,38,Yes,8,104.000,4,6,No,F,7,Complete Service
+3,18,31,Yes,12,24.000,3,4,No,F,4,E-Service
+3,67,42,Yes,20,81.000,3,20,No,M,5,Complete Service
+2,6,24,No,2,17.000,1,1,No,F,1,Advanced Service
+1,25,46,No,13,45.000,1,12,No,M,1,Advanced Service
+2,15,39,No,19,32.000,2,2,No,F,1,E-Service
+3,32,35,No,12,57.000,4,5,No,F,1,E-Service
+2,22,39,No,0,63.000,4,9,No,F,1,E-Service
+2,8,22,No,3,25.000,4,0,No,F,1,Advanced Service
+1,3,31,Yes,4,22.000,1,1,No,F,2,Fundamental Service
+2,32,54,No,6,155.000,2,20,No,F,1,Fundamental Service
+1,49,54,No,24,30.000,2,5,No,F,1,E-Service
+2,2,28,No,7,46.000,3,0,No,M,1,Complete Service
+1,39,47,No,1,68.000,4,10,No,M,2,E-Service
+1,42,33,No,2,67.000,2,5,No,F,2,E-Service
+1,28,36,No,3,69.000,3,2,No,F,1,Complete Service
+2,41,46,Yes,14,47.000,2,11,No,F,5,Complete Service
+3,67,50,Yes,31,83.000,2,12,No,F,2,E-Service
+1,38,40,No,15,34.000,2,11,No,M,1,E-Service
+2,18,38,No,8,45.000,2,2,No,M,4,Complete Service
+2,6,42,Yes,17,29.000,2,2,No,M,2,Complete Service
+2,4,36,No,0,21.000,2,1,No,M,3,Fundamental Service
+1,13,23,Yes,3,30.000,3,0,No,M,4,Complete Service
+1,20,35,No,0,78.000,4,7,No,F,1,Complete Service
+1,34,49,Yes,27,61.000,3,15,No,M,2,Advanced Service
+1,46,29,Yes,4,90.000,5,3,No,F,4,Complete Service
+1,48,41,No,21,43.000,2,7,No,F,1,E-Service
+3,69,61,Yes,12,301.000,2,37,No,F,2,Advanced Service
+1,32,34,Yes,7,32.000,2,15,No,F,4,Fundamental Service
+1,29,29,No,9,41.000,2,9,No,F,2,E-Service
+3,55,52,No,22,127.000,1,28,No,M,3,E-Service
+3,72,60,Yes,36,271.000,1,43,No,M,2,Advanced Service
+3,29,26,No,1,32.000,3,2,No,M,1,Fundamental Service
+2,50,25,Yes,1,36.000,4,2,No,M,5,Complete Service
+3,35,50,Yes,11,293.000,3,21,No,F,2,Fundamental Service
+3,11,63,No,9,41.000,3,3,No,F,1,Fundamental Service
+1,9,29,No,9,39.000,3,5,No,M,1,Fundamental Service
+2,51,48,No,27,58.000,1,18,No,F,1,Advanced Service
+1,33,34,Yes,2,28.000,1,3,No,M,3,E-Service
+1,25,20,No,0,15.000,2,0,No,F,2,Advanced Service
+3,31,34,No,9,105.000,4,7,No,M,4,Advanced Service
+2,67,40,Yes,10,80.000,4,8,No,M,2,Complete Service
+3,55,45,No,8,36.000,2,9,No,F,3,Advanced Service
+3,19,50,No,7,112.000,4,3,No,M,1,Complete Service
+1,39,34,Yes,11,55.000,4,10,No,M,4,Complete Service
+2,52,35,Yes,8,40.000,4,1,No,F,2,Advanced Service
+3,55,37,Yes,15,23.000,2,0,No,M,5,Advanced Service
+2,25,62,No,27,28.000,4,33,Yes,M,1,Complete Service
+3,33,58,No,12,21.000,2,23,Yes,M,1,Fundamental Service
+2,48,35,No,5,63.000,4,12,No,F,2,Advanced Service
+2,48,31,Yes,12,52.000,4,3,No,F,3,Complete Service
+2,49,57,No,3,189.000,1,31,No,M,3,Fundamental Service
+3,54,32,Yes,0,50.000,1,15,No,F,3,Advanced Service
+1,45,32,Yes,9,23.000,1,15,No,F,4,Fundamental Service
+3,4,37,Yes,1,33.000,2,15,No,M,5,Fundamental Service
+3,49,27,Yes,3,29.000,3,6,No,M,3,E-Service
+2,23,35,No,2,96.000,3,4,No,F,1,Complete Service
+2,31,44,No,23,80.000,5,15,No,F,1,E-Service
+2,55,44,Yes,2,68.000,2,15,No,F,5,Advanced Service
+1,9,28,No,7,30.000,1,4,No,M,6,Fundamental Service
+2,55,57,Yes,25,34.000,2,12,No,F,3,Fundamental Service
+1,34,30,No,3,35.000,2,2,No,M,3,Advanced Service
+1,10,23,No,4,36.000,2,1,No,F,3,Advanced Service
+2,62,76,No,20,35.000,3,18,Yes,M,1,E-Service
+2,51,36,No,13,62.000,3,9,No,F,2,Complete Service
+1,65,48,No,28,94.000,1,25,No,F,1,E-Service
+3,53,33,No,1,60.000,1,6,No,F,2,Complete Service
+1,23,35,No,4,118.000,2,11,No,F,1,Fundamental Service
+3,1,30,No,3,135.000,4,3,No,F,3,Fundamental Service
+3,66,55,No,20,80.000,2,24,No,M,1,Advanced Service
+3,8,27,Yes,0,21.000,3,3,No,M,2,E-Service
+3,18,28,Yes,3,22.000,1,2,No,M,5,Fundamental Service
+3,36,32,Yes,3,63.000,4,7,No,F,4,E-Service
+1,13,40,No,16,142.000,2,18,No,M,1,Fundamental Service
+3,4,44,No,15,32.000,3,0,No,M,1,Advanced Service
+3,20,32,No,10,19.000,3,5,No,F,1,E-Service
+1,66,39,Yes,12,60.000,4,10,No,F,3,Complete Service
+3,67,47,Yes,7,97.000,1,23,No,F,4,Advanced Service
+1,11,24,Yes,0,31.000,2,3,No,M,4,Complete Service
+1,6,26,No,7,30.000,3,1,No,M,2,Fundamental Service
+2,13,23,Yes,4,31.000,1,5,No,M,4,Fundamental Service
+2,2,29,Yes,3,44.000,2,9,No,M,6,Complete Service
+1,4,40,No,12,38.000,2,5,No,F,1,Fundamental Service
+1,34,63,Yes,10,23.000,2,0,No,M,2,Complete Service
+1,13,34,Yes,6,37.000,3,6,No,F,4,Advanced Service
+2,37,40,Yes,14,26.000,2,0,No,F,5,E-Service
+1,45,30,Yes,8,38.000,2,5,No,F,6,Advanced Service
+2,71,70,No,30,153.000,3,34,Yes,M,1,Advanced Service
+1,35,40,No,5,49.000,1,20,No,M,1,Fundamental Service
+3,44,41,No,21,51.000,3,7,No,F,1,Fundamental Service
+3,44,45,Yes,19,88.000,1,21,No,F,2,Advanced Service
+1,26,41,Yes,20,19.000,1,0,No,M,6,Fundamental Service
+2,42,46,Yes,9,31.000,1,12,No,M,3,Fundamental Service
+2,41,47,Yes,6,90.000,2,19,No,F,3,Fundamental Service
+1,31,24,Yes,3,14.000,1,0,No,F,4,Fundamental Service
+3,62,63,No,43,341.000,2,30,No,F,1,Advanced Service
+1,12,23,Yes,2,24.000,4,0,No,M,8,Complete Service
+2,45,49,Yes,27,81.000,2,7,No,M,4,Advanced Service
+1,47,34,Yes,4,63.000,2,13,No,M,4,Fundamental Service
+2,23,22,Yes,1,27.000,1,4,No,F,5,Advanced Service
+3,39,34,No,4,20.000,5,3,No,M,1,Complete Service
+2,19,26,No,2,48.000,3,0,No,F,2,Advanced Service
+1,13,54,No,12,121.000,4,23,No,F,1,Advanced Service
+2,5,33,No,6,39.000,3,4,No,F,3,Complete Service
+2,11,19,No,0,21.000,2,0,No,F,1,Fundamental Service
+3,4,32,No,2,53.000,4,5,No,F,1,Fundamental Service
+3,17,42,No,8,58.000,1,23,No,F,1,E-Service
+2,7,27,No,3,39.000,3,2,No,F,1,Fundamental Service
+1,19,65,No,3,108.000,1,33,No,F,3,Advanced Service
+2,32,34,Yes,0,38.000,1,10,No,F,4,E-Service
+2,53,51,No,31,245.000,4,0,No,F,1,E-Service
+1,51,38,No,19,51.000,1,18,No,M,1,Advanced Service
+1,35,34,No,7,78.000,4,10,No,M,1,Fundamental Service
+1,3,31,Yes,4,23.000,4,4,No,F,5,Complete Service
+1,22,48,No,7,88.000,4,12,No,F,1,Fundamental Service
+3,17,21,Yes,0,25.000,2,1,No,M,3,Advanced Service
+2,68,39,No,20,73.000,2,16,No,M,1,E-Service
+2,27,41,Yes,7,62.000,4,15,No,M,2,Advanced Service
+3,68,52,Yes,8,456.000,3,30,No,M,4,Advanced Service
+3,56,42,Yes,10,24.000,2,5,No,F,2,Advanced Service
+3,11,32,No,8,23.000,2,0,No,M,1,Fundamental Service
+3,5,47,No,7,46.000,1,6,No,M,1,Fundamental Service
+3,16,50,No,5,263.000,2,29,No,M,3,Advanced Service
+2,59,30,No,2,34.000,4,2,No,M,1,E-Service
+1,60,64,No,14,33.000,2,13,Yes,F,1,Complete Service
+3,55,47,No,11,37.000,1,11,No,F,1,Advanced Service
+1,18,56,No,22,296.000,2,25,No,F,1,Fundamental Service
+2,16,22,No,0,26.000,3,0,No,M,3,E-Service
+1,35,57,Yes,32,47.000,4,12,No,F,2,E-Service
+3,31,23,Yes,1,31.000,3,1,No,M,2,Complete Service
+2,20,49,Yes,5,264.000,2,29,No,M,2,Fundamental Service
+2,16,27,No,5,41.000,4,2,No,M,1,Complete Service
+2,69,48,Yes,27,55.000,2,4,No,F,2,Advanced Service
+3,69,66,Yes,31,49.000,2,15,No,F,2,Fundamental Service
+2,27,24,Yes,3,26.000,1,7,No,M,4,Fundamental Service
+3,48,39,No,20,110.000,4,9,No,F,1,Advanced Service
+1,18,52,Yes,20,66.000,1,19,No,M,2,Fundamental Service
+2,24,40,Yes,4,39.000,3,5,No,M,2,Advanced Service
+2,17,42,No,6,31.000,2,2,No,F,1,Complete Service
+2,9,24,Yes,3,26.000,4,1,No,M,3,Fundamental Service
+2,15,46,No,5,232.000,4,15,No,M,2,Complete Service
+1,62,37,Yes,10,43.000,4,1,No,M,3,E-Service
+1,9,41,No,12,39.000,4,3,No,F,1,Fundamental Service
+2,71,41,Yes,10,73.000,2,23,No,M,2,Advanced Service
+2,62,59,Yes,37,74.000,1,20,No,F,2,Advanced Service
+2,20,38,No,19,237.000,4,13,No,F,1,Complete Service
+1,19,33,Yes,11,22.000,1,3,No,F,5,Advanced Service
+2,49,61,Yes,28,21.000,1,8,No,F,2,Advanced Service
+3,3,64,No,3,9.000,2,6,Yes,F,1,Fundamental Service
+1,33,36,No,2,41.000,5,10,No,F,1,Fundamental Service
+2,38,44,No,1,50.000,4,7,No,M,1,E-Service
+3,42,48,Yes,14,27.000,3,5,No,M,3,Complete Service
+1,11,26,No,2,53.000,3,3,No,F,1,Complete Service
+3,27,28,Yes,0,58.000,3,0,No,F,2,Advanced Service
+3,23,50,No,1,151.000,4,8,No,M,1,Fundamental Service
+2,4,38,Yes,13,54.000,2,4,No,F,2,Advanced Service
+3,36,42,No,5,31.000,1,4,No,M,1,Fundamental Service
+2,37,42,No,10,115.000,1,22,No,M,1,Advanced Service
+3,24,58,Yes,30,24.000,1,5,No,F,2,Fundamental Service
+3,4,24,No,1,17.000,2,2,No,F,3,Fundamental Service
+3,54,33,No,5,47.000,2,13,No,M,2,Advanced Service
+3,7,49,No,8,36.000,1,0,No,M,1,Advanced Service
+1,10,28,No,9,75.000,4,1,No,F,1,Complete Service
+3,24,35,Yes,10,41.000,5,6,No,M,2,E-Service
+3,12,31,No,8,18.000,4,4,No,F,1,Fundamental Service
+2,45,54,No,25,171.000,3,33,No,M,1,Advanced Service
+3,59,55,Yes,29,42.000,3,21,No,M,2,E-Service
+1,3,21,Yes,1,36.000,3,0,No,M,4,Fundamental Service
+3,8,35,No,6,31.000,5,7,No,F,1,Complete Service
+1,16,59,No,5,207.000,2,37,No,M,2,Complete Service
+3,32,33,No,1,38.000,1,12,No,M,1,Fundamental Service
+1,8,49,No,14,134.000,4,9,No,M,1,Complete Service
+1,9,28,Yes,8,28.000,3,4,No,F,3,E-Service
+2,12,19,Yes,0,15.000,2,0,No,M,4,E-Service
+2,24,43,Yes,15,48.000,4,4,No,F,6,Complete Service
+3,72,75,No,48,14.000,2,6,Yes,M,1,E-Service
+3,58,61,No,42,101.000,4,18,No,M,1,E-Service
+1,70,44,Yes,24,87.000,2,18,No,F,3,Advanced Service
+3,9,25,No,3,27.000,1,4,No,M,1,Fundamental Service
+1,49,25,No,1,27.000,5,0,No,M,1,E-Service
+3,52,54,No,7,59.000,3,22,No,F,1,Advanced Service
+1,10,42,Yes,10,294.000,4,9,No,M,6,Complete Service
+1,14,52,Yes,2,44.000,3,5,No,F,2,Advanced Service
+1,19,27,Yes,3,35.000,2,4,No,F,6,Complete Service
+3,12,36,Yes,4,205.000,4,10,No,M,4,E-Service
+1,65,59,No,27,732.000,3,31,No,M,1,E-Service
+1,67,40,Yes,14,59.000,3,11,No,F,2,Advanced Service
+2,29,24,Yes,3,23.000,1,7,No,F,2,Advanced Service
+3,55,46,No,8,87.000,2,19,No,M,1,Fundamental Service
+3,71,67,Yes,25,110.000,1,23,No,M,2,Advanced Service
+3,5,44,Yes,2,83.000,3,14,No,M,3,Advanced Service
+3,60,58,No,0,63.000,4,21,No,M,3,E-Service
+2,10,40,No,6,22.000,3,6,No,M,1,Fundamental Service
+3,52,64,No,44,43.000,3,7,No,F,1,Complete Service
+2,61,43,Yes,22,35.000,2,11,No,F,3,E-Service
+1,61,29,Yes,5,48.000,2,11,No,F,4,E-Service
+2,67,47,Yes,19,69.000,3,12,No,F,3,Advanced Service
+3,41,42,Yes,12,26.000,4,5,No,F,4,E-Service
+1,30,28,No,1,20.000,1,8,No,M,1,Fundamental Service
+1,24,46,No,12,43.000,2,6,No,F,1,Complete Service
+1,72,75,No,37,33.000,1,44,Yes,M,1,E-Service
+2,17,35,No,7,66.000,2,11,No,F,1,Complete Service
+2,65,72,No,46,12.000,2,0,Yes,F,1,Advanced Service
+1,15,30,Yes,8,90.000,2,11,No,F,5,Complete Service
+1,34,33,No,8,35.000,3,2,No,M,1,E-Service
+1,26,43,No,23,51.000,5,4,No,M,1,E-Service
+2,36,45,No,22,117.000,3,15,No,M,1,E-Service
+1,60,48,No,29,100.000,2,26,No,M,1,Advanced Service
+1,16,54,No,20,147.000,1,29,No,F,4,Advanced Service
+2,1,33,No,5,53.000,4,6,No,M,1,Fundamental Service
+3,56,30,Yes,9,57.000,5,2,No,F,4,E-Service
+2,6,50,No,5,37.000,2,0,No,F,1,E-Service
+2,48,34,No,7,42.000,3,2,No,M,1,E-Service
+2,34,36,Yes,17,50.000,1,4,No,F,2,Advanced Service
+2,54,42,Yes,0,55.000,4,2,No,F,5,Complete Service
+3,38,31,Yes,2,42.000,2,7,No,M,4,Complete Service
+2,25,55,No,15,37.000,1,7,No,M,1,Fundamental Service
+1,47,69,Yes,17,228.000,3,39,No,M,4,Complete Service
+1,72,62,Yes,35,163.000,5,31,No,F,2,Complete Service
+2,6,35,Yes,6,28.000,4,3,No,M,3,Complete Service
+1,30,51,Yes,9,118.000,5,21,No,M,2,Fundamental Service
+1,65,70,Yes,9,115.000,2,39,Yes,M,2,Complete Service
+1,22,44,Yes,19,37.000,4,1,No,F,2,Advanced Service
+1,60,53,No,32,93.000,1,28,No,F,1,Advanced Service
+2,19,32,No,12,71.000,4,5,No,M,1,Complete Service
+3,18,25,No,4,26.000,2,7,No,M,3,Fundamental Service
+1,9,37,Yes,10,14.000,4,5,No,M,6,Fundamental Service
+1,1,34,Yes,6,18.000,1,0,No,M,2,Fundamental Service
+3,10,28,Yes,2,36.000,4,0,No,M,3,Complete Service
+3,45,34,Yes,14,43.000,4,0,No,F,4,E-Service
+1,25,28,Yes,6,41.000,4,4,No,M,4,Advanced Service
+3,66,39,No,1,66.000,2,15,No,M,1,E-Service
+1,27,67,No,1,33.000,4,19,Yes,M,1,Advanced Service
+1,19,41,No,5,53.000,4,6,No,F,1,Fundamental Service
+2,17,41,Yes,9,28.000,4,3,No,F,6,Fundamental Service
+2,16,36,No,13,58.000,4,4,No,F,1,Fundamental Service
+1,8,42,Yes,2,129.000,4,17,No,M,3,Fundamental Service
+1,3,25,No,0,65.000,4,0,No,M,1,Complete Service
+3,59,57,No,26,311.000,3,36,No,M,1,Fundamental Service
+2,45,37,No,2,57.000,3,14,No,M,1,E-Service
+1,66,62,No,31,47.000,2,4,No,M,1,E-Service
+3,28,50,Yes,7,25.000,1,3,No,F,2,Fundamental Service
+1,15,38,Yes,11,46.000,5,11,No,F,3,Fundamental Service
+3,39,34,Yes,10,51.000,3,13,No,M,4,Complete Service
+3,38,33,No,4,19.000,2,5,No,M,2,Advanced Service
+3,34,29,No,5,26.000,3,4,No,M,2,E-Service
+3,60,57,Yes,18,72.000,5,30,Yes,F,2,Complete Service
+3,72,65,Yes,33,71.000,1,41,Yes,M,4,Advanced Service
+1,42,42,Yes,9,41.000,2,13,No,F,8,Advanced Service
+3,32,37,No,9,44.000,2,7,No,F,1,Fundamental Service
+3,48,50,Yes,4,208.000,4,19,No,M,2,Complete Service
+3,63,37,Yes,1,45.000,4,9,No,M,6,E-Service
+3,45,27,Yes,3,39.000,3,2,No,F,4,E-Service
+2,68,42,No,16,89.000,4,12,No,F,1,E-Service
+1,6,29,Yes,4,19.000,2,5,No,M,2,Fundamental Service
+1,68,57,Yes,33,15.000,2,0,No,M,2,Complete Service
+3,72,68,Yes,26,59.000,2,36,Yes,M,2,Complete Service
+3,53,38,Yes,15,20.000,3,6,No,M,4,E-Service
+3,20,51,Yes,11,27.000,4,6,No,F,3,Advanced Service
+2,70,35,Yes,4,48.000,2,9,No,F,3,E-Service
+3,32,47,No,25,135.000,2,6,No,M,1,Fundamental Service
+2,61,52,Yes,23,19.000,1,0,No,F,2,Advanced Service
+1,24,25,Yes,3,28.000,4,0,No,F,3,E-Service
+2,56,61,Yes,14,12.000,1,16,Yes,M,2,Fundamental Service
+3,54,59,No,28,28.000,2,15,No,F,1,E-Service
+3,43,38,Yes,7,18.000,3,8,No,M,3,Complete Service
+1,19,35,No,7,58.000,3,5,No,M,1,Complete Service
+3,5,43,No,16,72.000,3,17,No,M,1,Advanced Service
+1,24,61,Yes,6,112.000,4,3,No,M,4,Fundamental Service
+3,62,35,Yes,2,28.000,2,8,No,M,2,E-Service
+2,14,40,No,13,398.000,5,11,No,M,1,Complete Service
+3,60,48,Yes,22,106.000,3,21,No,M,3,Complete Service
+2,30,74,Yes,12,10.000,1,3,Yes,M,2,Advanced Service
+1,40,42,Yes,16,108.000,3,17,No,F,4,E-Service
+2,42,50,Yes,17,85.000,2,15,No,M,4,Fundamental Service
+1,20,34,No,14,51.000,3,9,No,M,1,E-Service
+1,4,22,Yes,1,22.000,2,2,No,M,3,Advanced Service
+2,44,49,Yes,2,66.000,2,8,No,M,4,Complete Service
+3,49,63,No,18,10.000,2,2,Yes,F,1,Advanced Service
+3,5,36,Yes,2,34.000,1,4,No,M,2,Advanced Service
+3,70,50,Yes,29,67.000,1,22,No,F,4,E-Service
+1,30,57,Yes,16,19.000,1,1,No,F,4,Fundamental Service
+2,28,48,No,20,128.000,4,4,No,M,1,Complete Service
+1,5,28,Yes,3,39.000,5,1,No,F,6,Complete Service
+2,27,35,No,12,56.000,1,3,No,M,1,Complete Service
+2,17,39,No,12,45.000,4,10,No,M,1,Fundamental Service
+1,4,37,Yes,8,25.000,1,1,No,M,5,Fundamental Service
+1,30,23,Yes,0,24.000,2,1,No,M,4,Advanced Service
+3,71,40,Yes,19,53.000,4,14,No,M,2,Complete Service
+3,67,77,No,55,49.000,1,45,Yes,M,1,Fundamental Service
+3,24,48,Yes,3,38.000,1,16,No,M,2,Fundamental Service
+1,24,54,Yes,7,84.000,3,10,No,M,2,Fundamental Service
+2,59,54,No,32,126.000,1,22,No,M,1,Advanced Service
+3,59,32,No,9,73.000,4,5,No,F,1,E-Service
+3,44,37,Yes,1,41.000,4,8,No,M,6,E-Service
+1,19,31,Yes,0,22.000,4,2,No,F,3,E-Service
+2,58,46,Yes,23,23.000,1,2,No,M,2,Fundamental Service
+1,41,53,Yes,22,94.000,2,25,No,F,2,E-Service
+2,16,33,No,1,30.000,3,7,No,F,4,Advanced Service
+3,13,36,No,11,31.000,2,0,No,F,1,Fundamental Service
+1,60,53,No,22,171.000,1,37,No,M,1,Advanced Service
+2,72,49,Yes,23,102.000,1,27,No,M,6,E-Service
+2,33,39,No,17,27.000,4,3,No,M,1,Complete Service
+2,72,45,Yes,25,98.000,4,20,No,M,2,Complete Service
+1,66,54,Yes,8,591.000,4,25,No,M,2,Complete Service
+3,53,37,Yes,7,25.000,1,2,No,M,6,Advanced Service
+2,22,28,Yes,0,36.000,4,0,No,F,4,Complete Service
+2,14,26,Yes,1,25.000,2,0,No,M,3,Advanced Service
+1,52,49,No,18,69.000,2,13,No,M,2,Advanced Service
+3,33,30,Yes,5,22.000,1,0,No,F,2,Advanced Service
+3,72,66,No,26,67.000,2,37,Yes,M,1,Advanced Service
+1,40,40,Yes,3,73.000,4,12,No,M,4,Advanced Service
+2,29,26,No,1,22.000,4,2,No,M,1,Complete Service
+3,63,67,No,22,9.000,2,12,Yes,F,1,Advanced Service
+2,56,54,No,25,147.000,3,31,No,M,1,E-Service
+3,60,50,Yes,26,239.000,2,19,No,M,2,Complete Service
+3,28,22,Yes,3,23.000,3,1,No,F,5,Fundamental Service
+2,39,39,No,19,29.000,4,6,No,F,1,E-Service
+3,65,39,Yes,18,32.000,2,15,No,F,4,Advanced Service
+3,29,31,No,7,30.000,3,7,No,M,1,Advanced Service
+3,28,36,No,8,57.000,2,13,No,M,2,Advanced Service
+1,2,18,No,0,20.000,2,0,No,F,1,Advanced Service
+3,67,52,No,13,248.000,2,20,No,M,3,Advanced Service
+3,5,35,Yes,9,59.000,3,8,No,M,5,Complete Service
+3,48,35,No,10,24.000,2,6,No,F,1,Advanced Service
+2,10,26,Yes,4,25.000,1,4,No,M,3,Fundamental Service
+2,17,28,No,3,37.000,3,2,No,M,1,Advanced Service
+1,21,24,Yes,0,30.000,4,0,No,M,5,Complete Service
+2,25,51,No,9,66.000,4,13,No,F,2,Complete Service
+3,44,31,No,8,16.000,1,3,No,F,1,Fundamental Service
+2,59,49,No,28,429.000,4,23,No,M,2,Complete Service
+2,11,26,No,7,20.000,2,4,No,F,1,Fundamental Service
+2,50,68,Yes,32,262.000,3,28,No,F,2,Advanced Service
+3,23,25,Yes,2,28.000,3,1,No,M,5,E-Service
+1,17,19,No,0,18.000,2,0,No,M,2,E-Service
+1,15,62,Yes,3,144.000,3,21,No,F,2,Advanced Service
+2,68,57,Yes,38,33.000,1,9,No,M,2,E-Service
+1,69,42,Yes,23,19.000,3,0,No,M,2,Fundamental Service
+1,30,24,Yes,3,30.000,1,7,No,M,5,Fundamental Service
+3,22,30,No,8,41.000,2,8,No,F,1,Advanced Service
+2,10,20,Yes,1,20.000,2,0,No,M,4,Fundamental Service
+1,72,59,Yes,12,65.000,3,21,No,M,6,E-Service
+2,34,24,Yes,5,17.000,4,0,No,M,2,Advanced Service
+2,43,49,Yes,18,66.000,1,22,No,F,4,Advanced Service
+3,31,37,Yes,15,18.000,4,5,No,F,3,Complete Service
+2,6,27,Yes,5,26.000,4,2,No,F,5,Fundamental Service
+2,48,42,No,21,46.000,4,4,No,F,1,Advanced Service
+2,50,25,No,6,19.000,1,5,No,F,3,Fundamental Service
+3,20,41,Yes,19,58.000,2,6,No,M,2,E-Service
+3,61,73,No,10,25.000,1,21,Yes,F,1,Fundamental Service
+2,6,21,No,0,15.000,2,1,No,M,1,Fundamental Service
+2,1,22,No,2,35.000,2,2,No,F,1,Fundamental Service
+1,21,43,No,13,41.000,2,1,No,M,1,Complete Service
+3,7,32,No,1,71.000,4,3,No,F,2,Complete Service
+3,65,56,Yes,19,608.000,3,34,No,M,2,Complete Service
+1,64,37,No,10,44.000,4,9,No,M,1,E-Service
+3,4,30,No,0,41.000,2,0,No,F,2,Advanced Service
+1,67,45,Yes,22,83.000,3,11,No,M,2,E-Service
+2,22,35,No,12,28.000,2,3,No,F,2,E-Service
+3,51,37,Yes,17,101.000,2,10,No,M,2,Advanced Service
+1,50,28,No,6,28.000,1,10,No,M,1,Advanced Service
+1,31,47,Yes,18,35.000,2,0,No,F,2,Fundamental Service
+3,4,28,No,0,39.000,2,3,No,M,1,Advanced Service
+3,60,56,No,19,51.000,4,11,No,F,1,Complete Service
+3,7,31,Yes,12,31.000,2,7,No,M,6,Fundamental Service
+3,20,40,No,2,209.000,4,15,No,M,1,E-Service
+2,19,23,Yes,4,37.000,3,1,No,M,4,Advanced Service
+3,58,37,Yes,5,64.000,4,8,No,M,2,Complete Service
+3,65,64,No,20,88.000,3,26,No,M,1,Complete Service
+3,72,61,Yes,34,61.000,1,8,No,F,3,E-Service
+3,8,42,No,3,66.000,3,10,No,F,1,Complete Service
+2,33,40,Yes,14,19.000,3,5,No,F,2,Fundamental Service
+3,18,34,Yes,4,42.000,2,14,No,M,5,Complete Service
+2,24,31,Yes,6,41.000,2,13,No,F,5,Advanced Service
+3,70,36,No,8,50.000,1,15,No,M,1,E-Service
+1,7,38,No,4,70.000,4,4,No,F,1,Complete Service
+3,70,59,No,27,85.000,1,19,No,M,1,Advanced Service
+2,20,48,Yes,21,45.000,3,2,No,M,2,Advanced Service
+3,54,32,Yes,12,27.000,1,9,No,F,2,E-Service
+3,36,48,No,28,29.000,1,2,No,F,1,Fundamental Service
+3,71,53,Yes,29,48.000,4,0,No,M,2,Advanced Service
+1,17,41,No,4,32.000,2,3,No,F,1,Advanced Service
+1,18,45,Yes,17,43.000,1,9,No,F,3,Advanced Service
+1,16,27,No,8,16.000,5,0,No,M,1,Complete Service
+3,38,30,Yes,6,22.000,2,3,No,M,2,E-Service
+1,52,45,Yes,19,40.000,3,9,No,M,3,Complete Service
+1,46,48,Yes,12,256.000,3,25,No,F,6,Complete Service
+2,31,46,No,23,144.000,4,13,No,F,1,Advanced Service
+2,23,31,No,10,45.000,4,0,No,F,2,E-Service
+2,38,56,Yes,34,34.000,2,0,No,M,3,Advanced Service
+2,50,54,No,15,248.000,3,28,No,M,1,Advanced Service
+2,16,49,No,17,41.000,2,5,No,F,1,Complete Service
+2,14,34,Yes,4,27.000,4,1,No,M,2,Complete Service
+2,30,52,No,23,17.000,3,3,No,M,1,E-Service
+3,22,47,Yes,0,44.000,4,11,No,M,3,Complete Service
+1,38,55,Yes,12,135.000,2,24,No,F,4,Complete Service
+3,59,26,Yes,3,41.000,4,1,No,M,3,E-Service
+2,54,55,No,1,587.000,3,33,No,F,1,Advanced Service
+3,9,40,No,13,38.000,4,7,No,M,1,Complete Service
+1,67,67,Yes,38,49.000,2,10,No,M,2,E-Service
+2,24,44,No,19,33.000,3,0,No,M,2,Fundamental Service
+2,12,55,Yes,13,36.000,1,5,No,M,2,E-Service
+1,26,47,No,13,54.000,3,0,No,F,1,E-Service
+2,3,32,No,4,58.000,2,11,No,F,4,Complete Service
+2,20,46,No,2,23.000,5,4,No,M,2,Complete Service
+3,5,52,Yes,0,97.000,5,9,No,F,2,Complete Service
+3,58,53,No,19,207.000,3,12,No,M,1,Complete Service
+1,54,28,Yes,2,21.000,3,3,No,F,4,Fundamental Service
+2,52,39,No,6,119.000,3,18,No,M,1,Fundamental Service
+2,38,30,Yes,10,25.000,1,5,No,M,4,Fundamental Service
+2,19,46,No,5,59.000,3,17,No,F,1,Fundamental Service
+2,22,33,Yes,2,24.000,1,3,No,F,4,Fundamental Service
+1,49,35,Yes,15,113.000,4,4,No,F,5,E-Service
+3,5,39,No,0,22.000,1,0,No,M,2,Advanced Service
+2,18,69,No,28,11.000,1,17,Yes,F,1,Fundamental Service
+3,43,29,No,4,33.000,1,13,No,M,4,Advanced Service
+3,17,50,No,2,205.000,5,19,No,F,1,Complete Service
+2,37,33,No,4,41.000,3,8,No,M,3,E-Service
+2,8,39,No,0,39.000,1,7,No,M,1,Fundamental Service
+2,51,46,Yes,8,107.000,2,21,No,M,6,Advanced Service
+1,71,55,Yes,11,198.000,1,31,No,M,3,Advanced Service
+1,56,53,Yes,23,100.000,5,14,No,M,2,E-Service
+3,70,68,No,21,1131.000,2,45,No,F,1,Advanced Service
+1,62,53,No,14,360.000,3,26,No,M,2,Advanced Service
+1,50,52,Yes,22,162.000,2,27,No,M,2,Complete Service
+3,1,31,No,3,29.000,5,2,No,M,3,Fundamental Service
+3,15,26,No,1,38.000,4,1,No,F,2,Complete Service
+3,72,55,Yes,24,82.000,3,25,No,M,2,E-Service
+2,69,47,Yes,10,159.000,2,24,No,F,4,Advanced Service
+2,32,44,No,10,201.000,2,24,No,F,1,Advanced Service
+1,19,25,Yes,6,27.000,4,0,No,M,2,Advanced Service
+2,42,54,No,19,57.000,3,10,No,M,1,Complete Service
+3,51,49,No,29,45.000,1,16,No,F,1,Fundamental Service
+2,32,22,Yes,2,17.000,2,2,No,M,4,Advanced Service
+3,26,55,Yes,13,61.000,1,26,No,F,2,Advanced Service
+2,39,44,Yes,14,418.000,4,18,No,F,2,Complete Service
+2,72,53,No,12,152.000,2,32,No,M,1,Complete Service
+2,4,39,No,11,38.000,4,1,No,F,2,Complete Service
+2,54,50,Yes,5,151.000,4,20,No,F,3,Advanced Service
+1,34,40,Yes,21,23.000,4,9,No,M,3,Complete Service
+1,20,25,Yes,4,33.000,4,0,No,M,3,Fundamental Service
+3,14,49,No,4,26.000,1,8,No,F,1,Fundamental Service
+1,61,59,No,26,89.000,1,40,Yes,M,1,Advanced Service
+2,4,24,No,2,25.000,4,0,No,F,1,Fundamental Service
+3,16,48,No,25,59.000,2,13,No,F,2,Advanced Service
+1,13,41,No,9,55.000,2,12,No,M,3,Fundamental Service
+2,53,37,Yes,18,25.000,3,6,No,M,2,E-Service
+2,58,36,Yes,13,39.000,2,8,No,M,7,Complete Service
+2,25,38,Yes,19,56.000,1,19,No,M,2,Advanced Service
+1,71,61,Yes,19,155.000,3,30,No,F,2,Advanced Service
+1,22,33,Yes,13,119.000,5,0,No,M,4,Complete Service
+1,46,48,Yes,15,64.000,3,20,No,F,2,Advanced Service
+3,66,50,Yes,2,333.000,5,24,No,F,2,E-Service
+1,69,58,Yes,29,26.000,2,7,No,M,3,Complete Service
+2,38,49,Yes,3,33.000,4,11,No,F,4,E-Service
+3,16,35,No,7,46.000,3,3,No,F,1,Fundamental Service
+3,44,39,Yes,8,41.000,2,8,No,F,4,Complete Service
+1,50,50,No,24,31.000,1,8,No,F,1,Advanced Service
+3,10,23,No,1,29.000,4,0,No,M,1,Complete Service
+2,7,41,No,6,94.000,2,16,No,F,1,Complete Service
+3,71,48,No,25,288.000,3,19,No,F,1,Fundamental Service
+3,16,39,Yes,5,31.000,1,4,No,M,5,Fundamental Service
+3,6,20,No,0,25.000,2,0,No,M,2,Advanced Service
+2,46,55,No,24,269.000,2,35,No,F,1,Advanced Service
+3,51,49,Yes,13,203.000,3,27,No,F,4,Advanced Service
+3,5,34,No,12,22.000,2,2,No,F,2,Fundamental Service
+2,49,54,Yes,23,25.000,2,1,No,M,4,Fundamental Service
+3,49,51,Yes,14,222.000,5,16,No,F,2,E-Service
+1,26,30,Yes,4,76.000,3,7,No,F,2,Fundamental Service
+3,22,39,No,4,55.000,2,17,No,M,1,Complete Service
+3,51,45,Yes,4,46.000,3,6,No,F,2,Complete Service
+1,19,27,Yes,7,56.000,4,1,No,F,4,Complete Service
+1,9,36,No,1,79.000,3,11,No,M,5,Advanced Service
+3,15,25,Yes,0,51.000,3,2,No,M,2,Fundamental Service
+2,57,63,No,19,61.000,1,27,No,F,1,Advanced Service
+3,48,45,No,15,41.000,1,10,No,M,2,Fundamental Service
+2,9,53,Yes,20,50.000,2,13,No,M,2,Fundamental Service
+1,61,52,No,21,82.000,1,18,No,F,1,Advanced Service
+3,72,53,No,34,108.000,1,23,No,F,1,Advanced Service
+3,57,60,No,20,14.000,2,27,Yes,M,1,Advanced Service
+2,57,51,No,10,46.000,1,13,No,F,1,E-Service
+1,37,60,Yes,0,46.000,1,20,No,F,3,Advanced Service
+3,45,51,No,13,146.000,4,16,No,F,2,Fundamental Service
+3,45,39,Yes,15,36.000,1,11,No,M,5,Fundamental Service
+2,55,44,No,24,83.000,1,23,No,M,1,Advanced Service
+2,24,27,No,2,17.000,3,3,No,F,5,E-Service
+3,1,20,No,1,18.000,3,0,No,F,1,Fundamental Service
+2,34,23,Yes,3,24.000,1,7,No,M,4,Advanced Service
+3,14,37,Yes,5,48.000,3,1,No,M,4,Fundamental Service
+3,6,32,No,10,47.000,1,10,No,F,1,Advanced Service
+3,24,30,No,0,25.000,4,5,No,F,2,Complete Service
+2,3,26,Yes,6,59.000,4,0,No,M,3,Complete Service
+1,4,30,No,1,45.000,4,6,No,F,3,Complete Service
+1,72,40,Yes,19,163.000,4,15,No,F,2,E-Service
+1,44,56,No,4,63.000,2,6,No,M,1,Advanced Service
+1,50,43,No,6,27.000,3,4,No,F,1,Advanced Service
+2,61,50,Yes,16,190.000,2,22,No,M,2,E-Service
+1,34,52,Yes,2,106.000,2,19,No,F,2,Advanced Service
+3,26,54,Yes,30,26.000,3,1,No,M,2,Complete Service
+1,15,46,Yes,17,63.000,5,1,No,F,2,Complete Service
+3,10,39,No,0,27.000,3,0,No,M,3,Fundamental Service
+1,7,34,No,2,22.000,5,5,No,M,1,Fundamental Service
+3,67,59,No,40,944.000,5,33,No,M,1,Complete Service
+3,70,49,No,18,87.000,2,22,No,M,1,Advanced Service
+3,50,36,Yes,7,39.000,3,3,No,M,3,E-Service
